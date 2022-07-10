@@ -1,2 +1,2 @@
-# amazon-clone
+# Amazon Clone Site using React
  
